@@ -1,0 +1,6 @@
+
+flasgger==0.9.5
+Flask==2.2.2
+numpy>=1.19.0
+pandas==1.5.2
+lightgbm==2.2.3
